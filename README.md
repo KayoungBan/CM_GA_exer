@@ -11,5 +11,8 @@ This is a simple genetic algorithm with symbolic regression method.
 > - sympy change the symbolic output to simple function
 
 ### 2) 2D Data
+> - 
+
 
 ### 3) Find potential energy about given kinetic energy
+
